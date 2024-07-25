@@ -1,10 +1,10 @@
 import React from 'react'
-import Sidenavbar from './conponents/partials/Sidenavbar'
+import Home from './conponents/Home'
 
 function App() {
   return (
     <>
-    <Sidenavbar/>
+   <Home/>
     </>
     
   )
